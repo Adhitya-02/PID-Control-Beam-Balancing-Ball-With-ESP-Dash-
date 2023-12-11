@@ -25,6 +25,10 @@ To begin using this project, follow these steps:
 - **/src:** Contains the source code for the PID control system.
 - **/web:** Includes files related to the ESP Dash web interface.
 
+## Watch the Project in Action
+
+[![Watch the Project in Action](https://img.youtube.com/vi/j0N-GRs-aGw/0.jpg)](https://youtu.be/j0N-GRs-aGw?si=q-dOIxkvzgWac2kP)
+
 ## Contributing
 
 If you'd like to contribute to this project, please follow our [contribution guidelines](CONTRIBUTING.md). We welcome feedback, bug reports, and feature requests.
